@@ -39,3 +39,7 @@ now navigate to the test page(at the top)
 next to where it says Test is disabled for this skill. click on the dropdown menu and choose development.
 
 You now have a working skill just say alexa launch youtube.
+
+If you like this project consider donating https://paypal.me/andrewstechshow
+
+if you have any issues please post them in the issues tab
