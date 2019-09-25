@@ -42,4 +42,6 @@ You now have a working skill just say alexa launch youtube.
 
 If you like this project consider donating https://paypal.me/andrewstechshow
 
-if you have any issues please post them in the issues tab
+if you have any issues please post them in the issues.
+
+easy way -- https://skills-store.amazon.com/deeplink/tvt/292447391684ee72c4c10ce84e656672b0312939b688829701de7ac82cd56bbadee2a6578fdc434705445fd2a710d6cd8db050448e9aa828e0ed8b1360923f35d364467ec3058759477ea3317b897685fb63849bbf7889d19fce6af2ab04ad3c0ba70de43098011a7bda8e75d40b30db
