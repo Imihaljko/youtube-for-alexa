@@ -15,3 +15,6 @@ Choose the select option YouTube Data API v3 for the first select option and Web
 Almost done, wait for google to create your new project and you should see the screen below where you can copy your API Key
 
 copy your api key into notepad.
+
+To continue click on the link below
+https://github.com/andrewstech/youtube-for-alexa/blob/master/aws.md
