@@ -14,3 +14,5 @@ When it has done the creation, on the new screen, under "Add Triggers", click "A
 
 Down below select "Disable" on the Skill ID Verification.
 
+Now you've got your basic Lambda Function setup. 👍
+
