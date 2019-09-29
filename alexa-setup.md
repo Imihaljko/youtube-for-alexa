@@ -26,7 +26,7 @@ click on save model then click build model.
 
 now look for the endpoint page. (located on the left)
 
-select AWS Lambda ARN and in the Default Region box enter arn:aws:lambda:eu-west-1:410861105810:function:YouTube
+select AWS Lambda ARN and in the Default Region box enter your ARN 
 
 leave the other boxes blank. click on save model then build model.
 
@@ -35,3 +35,7 @@ now navigate to the test page(at the top)
 next to where it says Test is disabled for this skill. click on the dropdown menu and choose development.
 
 You now have a working skill just say alexa launch youtube.
+
+If you like this project consider donating https://paypal.me/andrewstechshow
+
+if you have any issues please post them in the issues.
