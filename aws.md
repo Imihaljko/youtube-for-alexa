@@ -16,3 +16,23 @@ Down below select "Disable" on the Skill ID Verification.
 
 Now you've got your basic Lambda Function setup. 👍
 
+dowload  the code using this link https://github.com/andrewstech/youtube-for-alexa/blob/master/lambda_function.zip
+
+After you have it, let's upload that into your Lambda Function.
+
+You need to add 2 environment variables. The first should be called "DEVELOPER_KEY" and value should be your Google YouTube API Key.
+
+The second environment variable is"youtube_dl" and the value sould be set to "true"
+
+Also, make sure you update your Memory utilization to 512MB with a timeout of 10 seconds.
+
+Hit SAVE to update your Function
+
+Now up at the Top of the screen you will notice your ARN
+
+Copy your ARN to your notepad as you will need this next.
+
+To continue click the link bellow
+
+https://github.com/andrewstech/youtube-for-alexa/blob/master/alexa-setup.md
+
