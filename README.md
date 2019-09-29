@@ -1,47 +1,27 @@
 Welcome to the documentation of youtube for alexa skill by Andrewstech
 
-This skill is free to use. 
+Go to https://developers.google.com/ and log in or create an account,
 
-start by heading to https://developer.amazon.com/alexa/console/ask
+After logging in go to this link https://console.developers.google.com/project and click on the blue CREATE PROJECT button.
 
-sign in with your amazon account.
+Enter a name for your project.
 
-click on Create skill
+Then click GoogleAPIs link in the top left corner and then click the link option called “YouTube Data API.” It’s under YouTube API’s
 
-enter a name for your skill & make sure that Custom and Provision your own, are selected
+Now click on the “ENABLE” button
 
-On the next screen select start from scratch and click the choose button.
+Next click on the blue ‘Go to Credentials’ button to the right
 
-scrole down and click on the Interfaces button.
+Choose the select option YouTube Data API v3 for the first select option and Web server(e.g. node js. Tomcat) for the second selection. Then choose Public data. Now click the blue button, “What credentials do I need?.
 
-enable the audio Interface, video Interface and the display Interface.
+Almost done, wait for google to create your new project and you should see the screen below where you can copy your API Key
 
-click the save Interfaces button.
+copy your api key into notepad.
 
-look on the left for a button called JSON Editor, click it.
 
-remove all text from the box.
-
-navigate to https://raw.githubusercontent.com/Livegamingshorts/youtube-for-alexa/master/InteractionModel_en.json
-
-copy all the text from here and paste it in the box.
-
-click on save model then click build model.
-
-now look for the endpoint page. (located on the left)
-
-select AWS Lambda ARN and in the Default Region box enter arn:aws:lambda:eu-west-1:410861105810:function:YouTube
-
-leave the other boxes blank. click on save model then build model.
-
-now navigate to the test page(at the top)
-
-next to where it says Test is disabled for this skill. click on the dropdown menu and choose development.
-
-You now have a working skill just say alexa launch youtube.
 
 If you like this project consider donating https://paypal.me/andrewstechshow
 
 if you have any issues please post them in the issues.
 
-easy way -- https://skills-store.amazon.com/deeplink/tvt/292447391684ee72c4c10ce84e656672b0312939b688829701de7ac82cd56bbadee2a6578fdc434705445fd2a710d6cd8db050448e9aa828e0ed8b1360923f35d364467ec3058759477ea3317b897685fb63849bbf7889d19fce6af2ab04ad3c0ba70de43098011a7bda8e75d40b30db
+
