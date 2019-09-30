@@ -22,7 +22,7 @@ After you have it, let's upload that into your Lambda Function.
 
 You need to add 2 environment variables. The first should be called "DEVELOPER_KEY" and value should be your Google YouTube API Key.
 
-The second environment variable is"youtube_dl" and the value sould be set to "true"
+The second environment variable is"youtube_dl" and the value should be set to "true"
 
 Also, make sure you update your Memory utilization to 512MB with a timeout of 10 seconds.
 
