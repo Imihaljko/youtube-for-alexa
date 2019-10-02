@@ -16,7 +16,7 @@ Down below select "Disable" on the Skill ID Verification.
 
 Now you've got your basic Lambda Function setup. 👍
 
-dowload  the code using this link https://github.com/andrewstech/youtube-for-alexa/blob/master/lambda_function.zip
+dowload  the code using this link https://github.com/andrewstech/youtube-for-alexa/blob/master/lamba2.zip
 
 After you have it, let's upload that into your Lambda Function.
 
